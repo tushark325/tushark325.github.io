@@ -57,7 +57,7 @@ nav .navbar{
   font-weight: 600;
 
   /* for logo background design */
-  background-image: url(/Images/logo.png);
+  background-image: url(images/logo.png);
   background-clip:text ;
   -webkit-background-clip: text;
   background-size: cover;
