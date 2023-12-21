@@ -57,7 +57,8 @@ nav .navbar{
   font-weight: 600;
 
   /* for logo background design */
-  background-image: url(https://github.com/tushark325/tushark325.github.io/blob/main/images/logo.png);
+  background-image: url(/images/logo.png);
+/*   background-image: url(https://github.com/tushark325/tushark325.github.io/blob/main/images/logo.png); */
   /* background-image: url(https://drive.google.com/file/d/1XshbKuZM1fKakdxdfLa8zJ1Ync71jLhg/view?usp=sharing); */
   /* background-image: url(https://github.com/tushark325/tushark325.github.io/blob/main/images/logo.png); */
 /*   background-image: url(https://drive.google.com/file/d/1XshbKuZM1fKakdxdfLa8zJ1Ync71jLhg/view?usp=sharing); */
