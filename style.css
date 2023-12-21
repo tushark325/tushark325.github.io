@@ -50,6 +50,8 @@ nav .navbar{
   /* background: red; */
   padding: 0 50px;
 }
+
+
 .navbar .logo a{
   font-size: 30px;
   color: #fff;
@@ -66,8 +68,8 @@ nav .navbar{
   -webkit-background-clip: text;
   background-size: cover;
   color: transparent;
-  
 }
+
 nav .navbar .nav-links{
   line-height: 70px;
   height: 100%;
